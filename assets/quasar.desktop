@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Quasar
+GenericName=Spreadsheet
+Comment=Fast, cosmic spreadsheet for TrangorgeOS
+Exec=quasar %F
+Icon=quasar
+Terminal=false
+Categories=Office;Spreadsheet;
+Keywords=spreadsheet;excel;sheet;csv;table;quasar;
+MimeType=application/x-quasar;
+StartupNotify=true
+StartupWMClass=quasar
